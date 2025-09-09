@@ -21,7 +21,7 @@
         "practica": "Giorgia Lupi",
         "miro": "https://miro.com/app/board/uXjVJPxjv9w=/",
         "tema": "Noticias Falsas, Verdades a Medias: Desinformación digital en Chile",
-        "algor": "…",
+        "algor": "https://cards.algoreducation.com/app/set/68c072bf98660be20f12e49b",
         "integrantes": [
             { "nombre": "Martina Muñoz", "avatar_url": "https://avatars.githubusercontent.com/u/226172983?v=4", "github": "https://github.com/lionmarty" },
             { "nombre": "Belén Porras", "avatar_url": "…", "github": "…" },
@@ -38,9 +38,9 @@
         "algor": "https://cards.algoreducation.com/app/set/68c05df0d52144eac870e168",
         "integrantes": [
             { "nombre": "Sofía Aliaga", "avatar_url": "https://avatars.githubusercontent.com/u/226171491?v=4", "github": "https://github.com/SofiaAliaga" },
-            { "nombre": "Constanza Astudillo", "avatar_url": "…", "github": "…" },
+            { "nombre": "Constanza Astudillo", "avatar_url": "https://avatars.githubusercontent.com/u/226171398?v=4", "github": "https://github.com/cinnamonrolllabubu" },
             { "nombre": "Carla Gonzáles", "avatar_url": "…", "github": "…" },
-            { "nombre": "Pía Muñoz", "avatar_url": "…", "github": "…" }
+            { "nombre": "Pía Muñoz", "avatar_url": "https://avatars.githubusercontent.com/u/226171144?v=4", "github": "https://api.github.com/users/piamunoz" }
         ]
     },
     {
@@ -52,9 +52,9 @@
         "tema": "",
         "algor": "https://cards.algoreducation.com/app/set/68bf95c4d52144eac8701564",
         "integrantes": [
-            { "nombre": "Sophia Bahamonde", "avatar_url": "…", "github": "…" },
-            { "nombre": "Anyela Cid", "avatar_url": "…", "github": "…" },
-            { "nombre": "Valentina Cristi", "avatar_url": "…", "github": "…" },
+            { "nombre": "Sophia Bahamonde", "avatar_url": "https://avatars.githubusercontent.com/u/227460605?v=4", "github": "https://github.com/sophibahamonde" },
+            { "nombre": "Anyela Cid", "avatar_url": "https://avatars.githubusercontent.com/u/226171809?v=4", "github": "https://github.com/anyelacid" },
+            { "nombre": "Valentina Cristi", "avatar_url": "https://avatars.githubusercontent.com/u/226171851?v=4", "github": "https://github.com/Balee10" },
             { "nombre": "José Cortez", "avatar_url": "…", "github": "…" }
         ]
     },
@@ -69,7 +69,7 @@
         "integrantes": [
             { "nombre": "Constanza Garrido", "avatar_url": "…", "github": "…" },
             { "nombre": "Macarena Torres", "avatar_url": "https://avatars.githubusercontent.com/u/177973098?v=4l", "github": "https://github.com/MacNCheese03" },
-            { "nombre": "Francys Vásquez", "avatar_url": "…", "github": "…" }
+            { "nombre": "Francys Vásquez", "avatar_url": "https://avatars.githubusercontent.com/u/204060921?v=4", "github": "https://github.com/Francys-vs" }
         ]
     }
 ]
