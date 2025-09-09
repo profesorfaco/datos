@@ -9,7 +9,7 @@
         "algor": "https://cards.algoreducation.com/app/set/68bfad8198660be20f126589",
         "integrantes": [
             { "nombre": "Irenko Blasco", "avatar_url": "https://avatars.githubusercontent.com/u/226171554?v=4", "github": "https://github.com/Irenk0" },
-            { "nombre": "Alberto Gallegos", "avatar_url": "https://avatars.githubusercontent.com/u/226171534?v=4", "github": "https://github.com/Alberto101102" },
+            { "nombre": "Alberto Gallegos", "avatar_url": "", "github": "…" },
             { "nombre": "Matias Chavez", "avatar_url": "…", "github": "…" },
             { "nombre": "Nicole Cerpa", "avatar_url": "…", "github": "…" }
         ]
@@ -69,7 +69,7 @@
         "integrantes": [
             { "nombre": "Constanza Garrido", "avatar_url": "…", "github": "…" },
             { "nombre": "Macarena Torres", "avatar_url": "…", "github": "…" },
-            { "nombre": "Francys Vásquez", "avatar_url": "…", "github": "…" }
+            { "nombre": "Francys Vásquez", "avatar_url": "https://avatars.githubusercontent.com/u/204060921?v=4", "github": "https://github.com/Francys-vs" }
         ]
     }
 ]
